@@ -1,0 +1,6 @@
+
+## Technologies
+
+- HTML
+- CSS
+- JS

@@ -1,0 +1,14 @@
+{
+  "fileDirections": {
+    "farsi/شاملو.md": "rtl",
+    "math/discrete math/مجموعه ها/1.مجموعه ها.md": "auto",
+    "math/discrete math/مجموعه ها/2.مجموعه ها.md": "auto",
+    "math/calc/calc 2/1.بردار ها.md": "auto",
+    "math/algebra/The Complete Idiot's Guide to Algebra(book)/chp1-getting cozy with numbers/1.basic numbers.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
